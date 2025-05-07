@@ -1,0 +1,16 @@
+# macOS system files
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+
+# VSCode
+.vscode/
+
+# Node
+node_modules/
+dist/
+
+# Logs
+*.log
