@@ -1,0 +1,71 @@
+brand,type,fit,color,trendy,comfort_level,revealing_level,fabric_quality,wear_frequency
+Tankair,basics,tight,black/white,1,3,2,5,0.85
+Garage,basics,tight,black/white,1,4,1,4,0.9
+Aritzia,casual,tight,earth tones,0,2,3,5,0.1
+Dynamite,casual,flowy,neutrals,1,4,1,3,0.95
+Lululemon,athleisure,tight,black/white,1,3,1,5,0.7
+American Eagle,casual,flowy,neutrals,0,2,3,5,0.15
+Lululemon,athleisure,tight,earth tones,1,3,3,5,0.4
+Ardene,casual,flowy,black/white,0,4,1,2,0.3
+Shein,party,tight,black/white,1,2,3,1,0.2
+Aritzia,coquette,flowy,black/white,1,3,3,3,0.5
+Hollister,casual,tight,black/white,0,4,1,4,0.8
+Hollister,casual,tight,neutrals,0,4,1,4,0.8
+Hollister,coquette,tight,black/white,1,3,3,3,0.15
+H&M,casual,tight,black/white,0,4,2,2,0.6
+Garage,casual,flowy,neutrals,0,5,1,3,0.95
+Garage,casual,tight,neutrals,0,3,2,3,0.7
+Other,athleisure,oversized,black/white,0,5,1,5,0.5
+H&M,casual,tight,earth tones,0,5,2,2,0.4
+American Eagle,casual,flowy,neutrals,0,5,2,5,0.3
+Aritzia,casual,oversized,black/white,1,5,1,5,0.4
+Shein,casual,structured,black/white,1,5,1,5,0
+American Eagle,casual,oversized,neutrals,1,5,1,3,0.9
+Other,casual,tight,neutrals,0,5,1,5,0
+Lululemon,athleisure,tight,black/white,0,3,1,5,0.8
+Tankair,basics,tight,black/white,1,3,2,5,0.7
+American Eagle,casual,tight,earth tones,0,4,2,4,0.7
+Hollister,basics,tight,neutrals,0,3,1,4,0.5
+Shein,casual,tight,black/white,0,2,1,1,0.5
+Shein,casual,tight,neutrals,0,2,1,1,0.5
+Aritzia,casual,flowy,earth tones,0,5,1,5,0.8
+Shein,coquette,flowy,black/white,1,2,3,3,0.3
+Shein,party,tight,black/white,1,4,3,2,0.3
+Shein,party,tight,earth tones,1,2,3,2,0.1
+Shein,party,tight,black/white,1,3,3,2,0.15
+Hollister,casual,tight,neutrals,0,4,1,4,0.75
+H&M,casual,tight,earth tones,0,4,1,2,0.6
+Hollister,athleisure,tight,black/white,0,2,3,4,0.3
+Hollister,casual,tight,pastels,0,3,3,4,0.2
+Hollister,casual,tight,pastels,0,4,2,4,0.4
+Garage,casual,tight,black/white,1,3,2,3,0.7
+Aritzia,athleisure,oversized,neutrals,0,5,1,5,0.3
+Aritzia,athleisure,oversized,black/white,1,5,1,5,0.8
+Hollister,eveningwear,oversized,neutrals,0,5,1,5,1
+Hollister,casual,tight,neutrals,0,3,2,4,0.6
+Hollister,casual,oversized,black/white,0,5,2,4,0.7
+Garage,casual,tight,bold,1,4,3,3,0.3
+Other,workwear,flowy,black/white,0,4,1,5,0.1
+Other,casual,structured,earth tones,0,3,1,4,0.1
+Other,casual,tight,black/white,0,1,1,4,0.1
+Other,eveningwear,oversized,neutrals,0,5,1,4,0.9
+Other,athleisure,structured,black/white,0,2,1,2,0.1
+Hollister,casual,tight,black/white,0,2,3,4,0.1
+Hollister,casual,tight,earth tones,0,2,3,4,0.1
+Hollister,casual,tight,neutrals,0,2,3,4,0.1
+Hollister,casual,tight,earth tones,0,4,2,4,0.6
+Dynamite,casual,oversized,black/white,1,5,1,3,0.85
+Lululemon,athleisure,tight,black/white,0,2,1,5,0.7
+American Eagle,casual,structured,neutrals,0,2,1,3,0.2
+Shein,casual,tight,black/white,0,4,1,1,0.35
+H&M,party,flowy,bold,0,5,1,4,0.2
+H&M,basics,flowy,black/white,0,5,1,4,0.9
+Other,athleisure,flowy,black/white,0,5,1,5,0.95
+Lululemon,athleisure,flowy,black/white,0,5,1,5,0.95
+Shein,casual,tight,black/white,0,3,1,1,0.3
+Shein,basics,tight,black/white,1,5,1,1,0.1
+Aritzia,athleisure,tight,black/white,1,5,1,5,0.9
+Shein,athleisure,tight,black/white,1,5,1,1,0.1
+Shein,casual,tight,earth tones,0,3,3,1,0.5
+Shein,athleisure,tight,neutrals,0,2,1,1,0.1
+Shein,party,tight,earth tones,0,2,3,1,0.1
