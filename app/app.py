@@ -1,9 +1,12 @@
 import streamlit as st
 import pandas as pd
 import joblib
+import os
 
 # Load the trained model
-model = joblib.load("../model/closet_model.pkl")
+# Dynamically build absolute path
+model_path = os.path.join(os.path.dirname(__file__), "../model/closet_model.pkl")
+model = joblib.load(model_path)
 
 st.title("👗 Wear Predictor 2.0")
 st.write("Predict the chance you'll actually wear a new clothing item!")
